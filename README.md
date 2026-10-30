@@ -15,7 +15,7 @@ PhishNet studies how scam operations behave **before** they reach victims (pig b
 
 ## Case studies
 - **Case 001 — Pig Butchering via Dating App → Telegram (2026)**
-  - **Persona:** "Ducinea", a self-described millionaire entrepreneur. Profile photos were stolen from an Asian social media influencer.
+  - **Persona:** "Ducinea", a self-described millionaire entrepreneur. Profile photos were stolen from a Korean social media influencer.
   - **Channel:** Initial contact on a dating app. Within 48 hours, the conversation moved to Telegram.
   - **Behavioral pattern:** The profile displayed extreme wealth (travel, luxury goods) and framed crypto trading as a lifestyle, not a sales pitch. After building rapport, the operator would go silent for 12–24 hours to create intrigue, then return with urgency: *"The window is closing"*, *"Only 2 spots left"*.
   - **Early signals:** Reluctance to video call; immediate push to Telegram; mentions of "exclusive" investment opportunities with guaranteed returns; a fabricated website (`ducinea-capital[.]com` — now offline) mimicking a family office.
@@ -36,12 +36,9 @@ Detect -> Triage -> Dossier -> **Human decision**.
 The open-source triage layer is here: [WACB demo](https://github.com/Sniter-T-C/wacb-demo).
 
 ## What I'm looking for
-Remote roles in Web3 compliance, investigations or threat intelligence. Languages: Spanish (Native), English (B2). Time zone: CET / Europe.
-
-## Contact
-- **LinkedIn:** [Marcio Mauricio Tubio Pacheco](https://www.linkedin.com/in/marcio-mauricio-tubio-pacheco-494401348)
-- **Email:** sisor.oficial@protonmail.com
-- **Open-source work:** [WACB demo repository](https://github.com/Sniter-T-C/wacb-demo)
+Remote roles in Web3 compliance, investigations or threat intelligence. Languages: Spanish (Native), English (B2). Time Zone: CET / Europe.
 
 ---
+*Looking for someone who actually knows the battlefield and the mud? You know where to find me.*
+
 *For demonstration and professional networking purposes. Not legal advice.*
